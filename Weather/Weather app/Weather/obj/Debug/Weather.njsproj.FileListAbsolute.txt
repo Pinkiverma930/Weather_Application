@@ -1,0 +1,3 @@
+C:\Users\Pinki\OneDrive\Desktop\Weather\Weather app\Weather\obj\Debug\Weather.njsproj.AssemblyReference.cache
+C:\Users\Pinki\OneDrive\Desktop\Weather\Weather app\Weather\obj\Debug\Weather.njsproj.CoreCompileInputs.cache
+C:\Users\Pinki\OneDrive\Desktop\Weather\Weather app\Weather\bin\Microsoft.NodejsTools.WebRole.dll
